@@ -79,7 +79,7 @@ python rsa.py
 
 ## Video Demo
 
-Tonton video demo di sini [ini](https://drive.google.com/file/d/1tAvDqy-VowmOCFNm_CjSNHOGkrwgIx6G/view?usp=sharing)
+Tonton video demo di [sini](https://drive.google.com/file/d/1tAvDqy-VowmOCFNm_CjSNHOGkrwgIx6G/view?usp=sharing)
 
 ## Struktur Repositori
 
