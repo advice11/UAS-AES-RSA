@@ -90,9 +90,6 @@ UAS-AES-RSA/
 └── rsa.py
 ```
 
-## Lisensi
-Proyek ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detail.
-
 ## Cara Mengunggah ke GitHub
 
 1. **Buat repository baru di GitHub**: Misalnya, beri nama "UAS-AES-RSA".
